@@ -2,6 +2,7 @@
 Data from the 2019 Clubs &amp; Governance Survey
 
 Sample Size
+
 Contrary to what many believe, the relative size of the sample to the population under examination (in this case, all students of Trinity College) does not matter. So long as respondents are randomly selected from the population, their responses will increasingly represent the distribution of responses in the population. As the responses in our sample had a lot of variation, we had no reason to believe they were not representative of the rest of the student body. Thus, in this study, the sample of 90 is actually very good. The only drawback is that small samples have less statistical power, meaning it is harder to detect small effects (e.g. in this study, social year might have had a small effect on engagement, but it was not found to be statistically significant). Future studies should seek to achieve greater statistical power by increasing the sample size.
 
 Normality
